@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Hirvita Mandaviya
 
 I'm a passionate BCA student currently exploring the fascinating world of programming and technology. Here's a glimpse of what you'll find in my GitHub universe:
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Hirvita6&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Hirvita6" /> </p>
 
 ## 🚀 About Me
 - 🎓 Studying **BCA** at Dr. Subhash University
