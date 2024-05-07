@@ -31,6 +31,7 @@
 <p align="left">
 
 <a href="https://in.linkedin.com/in/hirvitamandaviya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="30" width="40" /></a>
+<a href="https://twitter.com/Hirvita_?t=IJnaZQyXlWLGurLNWoBRvw&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 </p>
 
 Feel free to explore my repositories, drop a star, or connect with me! Let's learn and grow together. 🌱✨
