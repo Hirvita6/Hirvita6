@@ -5,6 +5,7 @@
 ## 🚀 About Me
 - 🎓 Studying **BCA** at Dr. Subhash University
 - 🌱 Learning **Python**, **JavaScript**, and **AI**
+- 😇 Always eager to explore **New things!**
 
 
 ## 🌟 What I'm Up To
