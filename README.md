@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirvita6&layout=compact)](https://github.com/Hirvita6/github-readme-stats)
 
 ## Stats
-[![jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirvita6&show_icons=true&theme=radical)](https://github.com/Hirvita6/github-readme-stats)
+[![Hirvita's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hirvita6&show_icons=true&theme=radical)](https://github.com/Hirvita6/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hirvita6&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
