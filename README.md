@@ -6,6 +6,7 @@
 - 🎓 Studying **BCA** at Dr. Subhash University
 - 🌱 Learning **Python** and **AI**
 - 😇 Always eager to explore **New things!**
+- 📫 How to reach me **<a href="https://in.linkedin.com/in/hirvitamandaviya">Click</a>**
 
 
 ## 🌟 What I'm Up To
