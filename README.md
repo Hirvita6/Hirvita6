@@ -20,14 +20,10 @@
   </a> 
  <br>
 
-<h3 align="left">Frameworks and Tools:</h3>
+
+## Frameworks and Tools
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-
-
-# Badges 
-
-[![An image of @Hirvita6's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Hirvita6)](https://holopin.me/Hirvita6)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirvita6&layout=compact)](https://github.com/Hirvita6/github-readme-stats)
