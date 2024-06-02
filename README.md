@@ -16,21 +16,20 @@
 
 ## Languages
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="40" height="40"/> </a>
- <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/f66f24f0d8e00b15422735852fa224781da2bb25ba2aa54a06a7c1b34695e30d/68747470733a2f2f636f64656f70696e696f6e2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4269746d61702d4d454449554d5f4153502e4e45542d436f72652d4c6f676f5f32636f6c6f72735f5371756172655f5247422e706e67" alt="asp" width="40" height="40"/> </a>
-
+ <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"> <img src="https://github.com/Rubix982/ASP.NET-ReactJS-Template/raw/main/public/img/1.png" alt="asp" width="40" height="40"/> </a>
  <br>
 
 
 ## Frameworks and Tools
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
- <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> 
- <a href="https://www.tutorialspoint.com/dotnet_core/dotnet_core_overview.htm" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> </a> 
- 
+<p align="left"> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.tutorialspoint.com/dotnet_core/dotnet_core_overview.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/> </a> 
+</p>
+
+## Databases
+<p align="left"> 
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/> </a>
+</p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirvita6&layout=compact)](https://github.com/Hirvita6/github-readme-stats)
 
 ## Stats
