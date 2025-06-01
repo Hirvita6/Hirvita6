@@ -34,6 +34,9 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/nolan/512/github.png" alt="git" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/fastapi/fastapi-plain-wordmark.svg" alt="fastapi" width="40" height="40"/>
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>
   </a>
